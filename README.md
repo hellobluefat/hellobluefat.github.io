@@ -1,5 +1,5 @@
 # hellobluefat.github.io
-蓝胖的四维空间袋
+
 git clone[url]
 git status
 git log
