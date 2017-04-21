@@ -13,3 +13,9 @@ emmet
 autocomplete-paths
 language-babel
 open-in-browser
+highlight-selected
+file-icons
+highlight-line
+activate-power-mode
+##安包
+apm install+ 包名
